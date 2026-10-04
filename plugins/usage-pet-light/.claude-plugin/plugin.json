@@ -1,0 +1,30 @@
+{
+  "name": "usage-pet-light",
+  "description": "Light-theme variant of usage-pet: a usage band above the prompt with Clawd, an animated pixel pet. For the Code tab of Claude Desktop.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "chinayuren2022-2025"
+  },
+  "repository": "https://github.com/chinayuren2022-2025/claude-desktop-mods-light",
+  "license": "MIT",
+  "keywords": [
+    "mod",
+    "usage",
+    "desktop",
+    "pet",
+    "light-theme"
+  ],
+  "userConfig": {
+    "language": {
+      "type": "string",
+      "title": "Language / 语言",
+      "description": "auto follows your system language · auto 跟随系统语言",
+      "options": [
+        "auto",
+        "zh",
+        "en"
+      ],
+      "default": "auto"
+    }
+  }
+}

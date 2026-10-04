@@ -1,0 +1,14 @@
+{
+  "name": "claude-desktop-mods-light",
+  "owner": { "name": "chinayuren2022-2025" },
+  "description": "Light-theme variant of usage-pet for the Code tab of Claude Desktop (unofficial)",
+  "plugins": [
+    {
+      "name": "usage-pet-light",
+      "source": "./plugins/usage-pet-light",
+      "description": "Light-theme usage band above the prompt (context / 5-hour / weekly / cache hit) with Clawd, an animated pixel pet",
+      "category": "productivity",
+      "tags": ["mod", "usage", "desktop", "light-theme"]
+    }
+  ]
+}
